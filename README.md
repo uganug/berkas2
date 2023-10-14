@@ -1,0 +1,2 @@
+# berkas2
+akses
